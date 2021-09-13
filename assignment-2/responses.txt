@@ -1,5 +1,5 @@
-1. Text
+1. The world wide web are the pages and content you see while you are online, while the internet is the network you are connected too to access the web.
 
-2. Text
+2. The internet works by connecting millions of computers around the world to a network that allows them to recieve and send information.
 
-3. Text
+3. A directory
