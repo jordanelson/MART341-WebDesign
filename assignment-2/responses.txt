@@ -2,4 +2,9 @@
 
 2. The internet works by connecting millions of computers around the world to a network that allows them to recieve and send information.
 
-3. A directory
+3. A directory is a container used to organize files into groups.
+
+4. The benefits of using a VCS are you can: work with multiple people on any file at the same time, properly store every version of your project, restore older versions of a file, understand every change made on the project, and backup the entire history of the project so you can recover any version of it.
+
+6. My favorite kind of art is abstract.
+
