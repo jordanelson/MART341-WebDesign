@@ -1,0 +1,7 @@
+1. Urban Outfitters 2. Nike 3. Zara
+
+2. A DNS converts domain names to IP addresses so browsers can read them.
+
+3. Cookies are files that hold information about you that are stored on your computer.
+
+4. Three essential parts of a URL are the: domain name, protocol, and path to the file.
