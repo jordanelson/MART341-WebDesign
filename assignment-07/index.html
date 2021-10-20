@@ -16,6 +16,13 @@
       Missoula, Montana 59801<br />
       (406)552-1313<br />
     </address>
+<head>
+    <style>
+      table, th, td {
+          border: 2px powderblue;
+      }
+    </style>
+</head>
 
     <table>
         <tr>
@@ -50,17 +57,26 @@
           <td>11:00 am to 10:30 pm</td>
         </tr>
       </table>
-    
-          <a href="https://www.verybestbaking.com/toll-house/recipes/original-nestle-toll-house-chocolate-chip-cookies/">Original Recipe</a>
-    <h4>Contact Me</h4>
-          <a href="mailto:Management@bridgepizza.com">Send an email!</a>
-          <address>
-            The University of Montana<br />
-            32 Campus Drive<br />
-            Missoula, MT 59812
-          </address>
-      <img src="./images/bridgepizza.jpeg"/>
-
-<!-- This is my HTML comment. -->
-</body>
+  <form method="POST" action="index.html">
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname">
+  <p>Choose your favorite Bridge Pizza type:</p>
+    <input type="radio" id="cheese_pizza" name="pizza_type" value="Cheese_Pizza"
+    <label for="Cheese_Pizza">Cheese Pizza</labvel><br>
+    <input type="radio" id="pepperoni_pizza" name="pizza_type" value="Pepperoni_Pizza">
+    <label for="pepperoni_pizza">Pepperoni Pizza</label><br>
+    <input type="radio" id="sausage,_basil,_garlic_confit_on_red" name="pizza_type" value="Sausage,_Basil,_and_Garlic_Confit_On_Red"
+    <label for="sausage,_basil,_garlic_confit_on_red">Sausage, Basil, and Garlic Confit on Red</label>
+  </form>
+  <p>
+  Net ID:
+  <input type="text" name="name" id="test-text" placeholder="ab123456"/>
+</p>
+  <p>
+  Comments or Concerns:
+  <textarea name="comments" id="test-textarea">Enter up to 500 characters...</textarea>
+</p>
+<input type="submit">
 </html>
