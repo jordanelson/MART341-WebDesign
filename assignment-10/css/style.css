@@ -1,22 +1,22 @@
-body{
+body {
     font-family: 'BauHaus 93', 'Baskerville', 'Goudy Old Style', 'Arial';
     background-image: url(images/flowerbackground.jpg);
     background-size: cover;
     text-align: center;
 }
 
-a{
+a {
   background-color: #d18561
   img-border: 5px;
   border: 10px;
 }
 
-.center{
+.center {
   margin-left: auto;
   margin-right: auto;
 }
 
-th{
+th {
   text-align: center;
   background-color: #e1beb8;
   border: 10px solid white;
@@ -25,7 +25,7 @@ th{
   padding: 5px;
 }
 
-td{
+td {
   text-align: center;
   background-color: #e0aa60;
   border: 10px solid white;
