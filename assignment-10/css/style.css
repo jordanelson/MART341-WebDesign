@@ -7,13 +7,10 @@ body{
 
 .main-container {
 
-    /* Draw a solid border make it maroon */
     border-style: solid;
     border-width: 10px;
     border-color: maroon;
-    /*Add space between the border and its inside elements. */
     padding: 10px;
-    /* Color the background dark grey. */
     background : lightgrey;
     width: 75%;
     margin: auto;
