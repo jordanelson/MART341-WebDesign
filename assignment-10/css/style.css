@@ -1,0 +1,35 @@
+body{
+    font-family: 'BauHaus 93', 'Baskerville', 'Goudy Old Style', 'Arial';
+    background-image: url(images/flowerbackground.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+a{
+  background-color: #d18561
+  img-border: 5px;
+  border: 10px;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th{
+  text-align: center;
+  background-color: #e1beb8;
+  border: 10px solid white;
+  font-size: 40px;
+  color: #e1beb8;
+  padding: 5px;
+}
+
+td{
+  text-align: center;
+  background-color: #e0aa60;
+  border: 10px solid white;
+  font-size: 40px;
+  color: #e1beb8;
+  padding: 30px;
+}
