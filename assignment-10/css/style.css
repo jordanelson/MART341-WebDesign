@@ -1,5 +1,8 @@
 body{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'BauHaus 93', 'Baskerville', 'Goudy Old Style', 'Arial';
+    background-image: url(images/flowerbackground.jpg);
+    background-size: cover;
+    text-align: center;
 }
 
 .main-container {
