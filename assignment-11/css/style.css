@@ -1,0 +1,46 @@
+div{
+    text-align: center;
+    line-height: 2em;
+    font-family: Times New Roman, Arial;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+h1, h3{
+    text-align: center;
+    font-family: AdLib, Baskerville;
+}
+
+.opening-paragraph{
+    color: #70C575;
+    font-size: 25px;
+    text-indent: 15px;
+    font-weight: 500;
+}
+
+.opening-paragraph: :first-line{
+      font-size: 25px;
+}
+
+.second-paragraph{
+      font-size: 20px
+}
+
+#book_information{
+      text-decoration:overline;
+      font-family: cursive;
+}
+#book_information:hover{
+      font-family: cursive,
+      text-decoration: underline;
+      font-weight: 500;
+}
+
+table{
+    border: 2px solid yellow;
+    font-family: Cambria, Century;
+    font-weight: 500;
+}
+
+p{
+    font-family: AdLib, Cambria
+}
