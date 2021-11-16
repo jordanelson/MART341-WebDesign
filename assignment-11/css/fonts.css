@@ -1,21 +1,21 @@
 @font-face {
     font-family: 'AdLib';
-    src: url('../fonts/AdLib.ttf') format('truetype');
+    src: url('../fonts/AdLib-7jv.ttf') format('truetype');
     font-style: normal;
  }
  @font-face {
-    font-family: 'FiraSans';
-    src: url('../fonts/FiraSans-Bold.ttf') format('truetype');
+    font-family: 'Adreena';
+    src: url('../fonts/AdreenaScript-Demo.ttf') format('truetype');
     font-weight: 700;
  }
 
  @font-face {
-   font-family: 'Merriweather';
-   src: url('../fonts/Merriweather-Regular.ttf') format('truetype');
+   font-family: 'coolvetica';
+   src: url('../fonts/coolvetica rg.ttf') format('truetype');
    font-style: normal;
 }
 @font-face {
-   font-family: 'Merriweather';
-   src: url('../fonts/Merriweather-Bold.ttf') format('truetype');
+   font-family: 'Calligraphy';
+   src: url('../fonts/Calligraphy Hand Made.ttf') format('truetype');
    font-weight: 700;
 }
