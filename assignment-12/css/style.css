@@ -1,13 +1,13 @@
 div{
     text-align: left;
     line-height: 1.45em;
-    font-family: Merriweather, sans-serif;
+    font-family: Times New Roman, Algerian;
     margin-bottom: 10px;
     padding: 5px;
 }
 h1, h3, h5{
     text-align: center;
-    font-family: FiraSans, sans-serif;
+    font-family: Algerian, Arial;
 
 }
 .opening-paragraph{
@@ -26,23 +26,23 @@ h1, h3, h5{
 
 #book_info{
     text-decoration: none;
-    font-family: Merriweather, sans-serif;
+    font-family: Alergian, Times New Roman;
 }
 #book_info:hover{
-    font-family:  Merriweather, sans-serif;
+    font-family:  American Typewriter, Arial;
     text-decoration: underline;
     font-weight: 700;
 }
 
 table{
     border: 1px dashed black;
-    font-family:  FiraSans, sans-serif;
+    font-family:  Times New Roman, American Typewriter;
     font-weight: 700;
     padding: 10px;
 }
 
 p{
-    font-family:  Merriweather, sans-serif;
+    font-family:  Arial, Amercan Typewriter;
 }
 
 /* Set your header design: */
@@ -51,7 +51,7 @@ header {
     top: 0px;
     left: 0px;
     background-color: #26272b;
-    font-family: Merriweather;
+    font-family: Algerian;
     text-transform: uppercase;
     margin-top: 0;
     height: 4em;
@@ -76,7 +76,7 @@ header {
 }
 
 .menu-item:hover {
-    background-color: gray;
+    background-color: pink;
 
 }
 
