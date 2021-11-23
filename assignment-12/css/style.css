@@ -1,16 +1,10 @@
 div{
     text-align: left;
+    background-color: #88b58f;
     line-height: 1.45em;
     font-family: Times New Roman, Century;
     margin-bottom: 10px;
     padding: 5px;
-}
-.main-container {
-    border-style: dotted;
-    border-width: thick;
-    border-color: #88b58f;
-    background-color: #88b58f;
-    padding: 15px;
 }
 h1, h3, h5{
     text-align: center;
