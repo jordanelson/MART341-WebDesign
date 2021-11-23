@@ -31,13 +31,13 @@ h1, h3, h5{
 #book_info:hover{
     font-family:  American Typewriter, Arial;
     text-decoration: underline;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 table{
-    border: 1px dashed black;
+    border: 1px solid green;
     font-family:  Times New Roman, American Typewriter;
-    font-weight: 700;
+    font-weight: 500;
     padding: 10px;
 }
 
@@ -50,13 +50,13 @@ header {
     position: fixed;
     top: 0px;
     left: 0px;
-    background-color: #26272b;
+    background-color: #88b58f;
     font-family: Algerian;
     text-transform: uppercase;
     margin-top: 0;
     height: 4em;
     width: 100%;
-    text-align: left;
+    text-align: Center;
 }
 
 /* Set the layout of the menu: */
@@ -65,7 +65,7 @@ header {
     margin: 1em .2em;
     min-width: 6em;
     text-align: center;
-    background-color: #26272b;
+    background-color: #88b58f;
     padding: 0.5em 1em;
 }
 
@@ -82,24 +82,24 @@ header {
 
 /* Add a dropdown feature: */
 .dropdown {
-    display: inline-block;
+    display: flow-root;
 }
 
 .dropdown-content {
     display: none;
     position: absolute;
-    border: 1px solid #000;
+    border: 1px solid #dab4db;
     margin: 0.5em 0 0 -1em;
-    color: #000;
-    background-color: #fff;
+    color: #f9defa;
+    background-color: #f9defa;
     z-index: 1;
 }
 .dropdown-content a {
-    color: #000;
+    color: #f752c6;
 }
 
 .dropdown:hover .dropdown-content {
-    display: block;
+    display: flow-root;
 }
 
 /* Style dropdown item display: */
