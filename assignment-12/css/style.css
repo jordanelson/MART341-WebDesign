@@ -45,8 +45,6 @@ table{
 p{
     font-family:  Arial, Amercan Typewriter;
 }
-
-/* Set your header design: */
 header {
     position: fixed;
     top: 0px;
@@ -59,8 +57,6 @@ header {
     width: 100%;
     text-align: Center;
 }
-
-/* Set the layout of the menu: */
 .menu-item {
     display: inline-block;
     margin: 1em .2em;
@@ -69,10 +65,8 @@ header {
     background-color: #88b58f;
     padding: 0.5em 1em;
 }
-
-/* Style the links: */
 .menu-item a {
-    color: #fff;
+    color: white;
     text-decoration: none;
 }
 
@@ -81,7 +75,6 @@ header {
 
 }
 
-/* Add a dropdown feature: */
 .dropdown {
     display: flow-root;
 }
