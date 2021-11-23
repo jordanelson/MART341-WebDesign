@@ -19,14 +19,14 @@ h1, h3, h5{
 }
 
 .opening-paragraph::first-line{
-    font-size: 30px;
+    font-size: 50px;
 }
 .second-paragraph{
-    font-size: 16px;
+    font-size: 40px;
 }
 
 #book_info{
-    text-decoration: none;
+    text-decoration: underline;
     font-family: Alergian, Times New Roman;
 }
 #book_info:hover{
