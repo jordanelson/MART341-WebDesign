@@ -24,8 +24,11 @@ h1, h3, h5{
 .second-paragraph{
     font-size: 90px;
 }
-.third-paragraph{
+.bookimage{
     font-size: 80px;
+}
+.bookcover{
+    font-size: 80
 }
 
 #book_info{
