@@ -199,7 +199,8 @@ header {
   }
 
 .contactus{
-    width:50%;
+    position: center;
+    width:100%;
     margin-left: 25%;
 
 }
