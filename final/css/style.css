@@ -26,10 +26,6 @@ h1, h3, h5{
     font-size: 16px;
     text-indent: 60px;
 }
-
-.opening-paragraph::first-line{
-    font-size: 16px;
-}
 .second-paragraph{
     font-size: 16px;
 }
