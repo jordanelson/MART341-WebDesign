@@ -17,6 +17,7 @@ body{
     padding: 75px;
 }
 h1, h3, h5{
+    color: pink;
     text-align: center;
     font-family: Busorama;
 
