@@ -117,8 +117,8 @@ header {
 }
 
 .mainimage{
-    float: left;
-    content:url("../images/road1-small.jpg");
+    float: center;
+    content:url("../images/gnp1.jpeg");
 
 }
 
