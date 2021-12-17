@@ -24,8 +24,7 @@ h1, h3, h5{
 .opening-paragraph{
     color: white;
     font-size: 16px;
-    text-indent: 10px;
-    font-weight:400;
+    text-indent: 60px;
 }
 
 .opening-paragraph::first-line{
