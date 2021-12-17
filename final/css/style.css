@@ -123,6 +123,16 @@ header {
     }
 }
 
+.mapimage{
+    float: center;
+    content:url("../images/glacier-national-park-map.jpeg")
+}
+@media only screen and (min-width: 600px) {
+    .mapimage{
+    float:center;
+    content:url("../images/glacier-national-park-map.jpeg");
+    }
+}
 .secondimage{
     float:right;
     content:url("../images/spa.png");
