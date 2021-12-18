@@ -22,7 +22,11 @@ h1, h3, h5{
     text-indent: 40px;
 }
 .second-paragraph{
-    font-size: 16px;
+    font-size: 35px;
+    font-family: Bookman Old Style, Times New Roman;
+    font-color: white;
+    text-align: center;
+    text-indent: 30px;
 }
 
 table{
