@@ -156,8 +156,13 @@ header {
     font-family: Big Caslon;
 }
 .mapimage{
-    image-orientation: center;
-    content:url("../images/glacier-national-park-map.jpeg")
+  image-orientation: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  content:url("../images/glacier-national-park-map.jpeg")
 }
 @media only screen and (min-width: 600px) {
     .mapimage{
