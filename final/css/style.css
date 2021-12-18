@@ -11,7 +11,7 @@ body{
 h1, h3, h5{
     text-align: center;
     font-family: Big Caslon;
-    font-size: 50px;
+    font-size: 120px;
     color: white;
 }
 .opening-paragraph{
@@ -110,12 +110,14 @@ header {
 }
 .button{
     color: #507DF5;
+    text-align: center;
     display-orientation: center;
     margin: 25 px;
     font-family: Big Caslon;
     font-size: 60px;
     font-color: white;
-    padding:    padding: 0.5em 1em 0.5em 1em;
+    margin: 5em;
+    padding:    padding: 4em 4em 4em 4em;
 }
 
 .mainimage{
