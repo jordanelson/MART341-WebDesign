@@ -15,6 +15,7 @@ h1, h3, h5{
     color: white;
 }
 .opening-paragraph{
+    position: center;
     color: white;
     font-family: Bookman Old Style, Times New Roman;
     font-size: 60px;
@@ -112,7 +113,9 @@ header {
 }
 
 .mainimage{
-    position: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 1350px;
     height: 900px;
     content:url("../images/gnp1.jpeg");
