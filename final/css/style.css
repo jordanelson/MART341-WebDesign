@@ -112,6 +112,8 @@ header {
 
 .mainimage{
     float: center;
+    width: 1350px;
+    height: 900px;
     content:url("../images/gnp1.jpeg");
 
 }
