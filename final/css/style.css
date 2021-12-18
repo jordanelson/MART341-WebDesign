@@ -14,6 +14,13 @@ h1, h3, h5{
     font-size: 120px;
     color: white;
 }
+h2{
+    font-family: Big Caslon;
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    padding: 50px
+}
 .opening-paragraph{
     text-align: center;
     color: white;
@@ -29,14 +36,14 @@ h1, h3, h5{
     text-indent: 30px;
 }
 
-table{
-    border: 1px dashed black;
-    font-family:  FiraSans, sans-serif;
-    font-weight: 700;
-    padding: 10px;
+
+.info{
+    text-align: center;
+    color: white;
+    font-family: Bookman Old Style, Times New Roman;
+    font-size: 60px;
+    text-indent: 40px;
 }
-
-
 p{
     font-family:  Merriweather, sans-serif;
 }
