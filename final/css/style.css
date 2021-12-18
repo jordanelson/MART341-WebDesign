@@ -136,7 +136,11 @@ header {
         content:url("../images/gnp1.jpeg");
     }
 }
-
+.contactus{
+    display-orientation: center;
+    font-size: 45px;
+    font-family: Big Caslon;
+}
 .mapimage{
     image-orientation: center;
     width: 50%;
