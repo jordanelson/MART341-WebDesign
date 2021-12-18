@@ -103,6 +103,13 @@ header {
     color: black;
     background-color: #583636;
 }
+.button{
+    color: #507DF5;
+    margin: 5 px;
+    font-family: Big Caslon;
+    font-color: white;
+    padding:    padding: 0.5em 1em 0.5em 1em;
+}
 
 .mainimage{
     float: center;
