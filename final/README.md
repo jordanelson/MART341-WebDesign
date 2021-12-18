@@ -1,0 +1,3 @@
+1. I learned way more about Github and how it allows you to track your progress and specify each update you make to your code so that if you make a mistake you can go back and trace it.
+2. I learned a ton about positioning and how to make sure everything correlates properly and about the different font families.
+3. I really enjoyed this class. It was very challenging at times but it was such a rewarding feeling when I would finally figure out what my mistake was or when I would learn something new. Overall I would say this is one of the classes where I have learned the most and enjoyed doing it.
