@@ -164,7 +164,13 @@ header {
 
 .thirdimage{
     margin: auto;
-    content:url("../images/spaflowers.jpeg");
+    content:url("../images/wintermountains.jpeg");
+    image-orientation: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
 }
 
 /* For width 600px and larger: */
