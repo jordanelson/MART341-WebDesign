@@ -110,7 +110,7 @@ header {
 }
 .button{
     color: #507DF5;
-    position: center;
+    display-orientation: center;
     margin: 25 px;
     font-family: Big Caslon;
     font-size: 60px;
