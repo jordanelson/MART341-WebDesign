@@ -139,8 +139,8 @@ header {
 
 .mapimage{
     image-orientation: center;
-    width: 25%;
-    height: 25%;
+    width: 50%;
+    height: 50%;
     content:url("../images/glacier-national-park-map.jpeg")
 }
 @media only screen and (min-width: 600px) {
