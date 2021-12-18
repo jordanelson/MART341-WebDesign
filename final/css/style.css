@@ -228,13 +228,11 @@ header {
     padding: 15px;
   }
 
-.row{
-  text-align: center;
-  color: white;
-  font-family: Bookman Old Style, Times New Roman;
-  font-size: 60px;
-  text-indent: 40px;
-}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 
 .contactus{
     position: center;
