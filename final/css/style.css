@@ -160,15 +160,21 @@ header {
     }
 }
 .secondimage{
+    image-orientation: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
     float:right;
-    content:url("../images/spa.png");
+    content:url("../images/winterlake.jpeg");
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .secondimage{
-        float:right;
-        content:url("../images/spa.png");
+        float:center;
+        content:url("../images/winterlake.jpeg");
     }
 }
 
