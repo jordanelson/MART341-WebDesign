@@ -106,6 +106,7 @@ header {
 }
 .button{
     color: #507DF5;
+    position: center;
     margin: 25 px;
     font-family: Big Caslon;
     font-size: 60px;
