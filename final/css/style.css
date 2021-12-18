@@ -22,6 +22,13 @@ h2{
     text-align: center;
     padding: 50px
 }
+.references{
+  text-align: center;
+  color: white;
+  font-family: Bookman Old Style, Times New Roman;
+  font-size: 20px;
+  text-indent: 40px;
+}
 .opening-paragraph{
     text-align: center;
     color: white;
