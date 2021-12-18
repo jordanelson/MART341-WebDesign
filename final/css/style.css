@@ -13,10 +13,11 @@ h1, h3, h5{
     font-family: Big Caslon;
     font-size: 120px;
     color: white;
+    position: relative;
 }
 h2{
     font-family: Big Caslon;
-    font-size: 80px;
+    font-size: 60px;
     color: white;
     text-align: center;
     padding: 50px
@@ -164,7 +165,6 @@ header {
     margin-right: auto;
     width: 100%;
     height: 100%;
-    float:right;
     content:url("../images/winterlake.jpeg");
 }
 
@@ -183,51 +183,76 @@ header {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
-    height: 25%;
+    width: 50%;
+    height: 50%;
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .thirdimage{
         margin: auto;
-        content:url("../images/spaflowers.jpeg");
+        content:url("../images/wintermountains.jpeg");
     }
 }
 
 .fourthimage{
+    image-orientation: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%
     margin:auto;
-    content:url("../images/spatable.jpeg");
+    content:url("../images/avalanchelake.jpeg");
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .fourthimage{
         margin: auto;
-        content:url("../images/spatable.jpeg");
+        content:url("../images/avalanchelake.jpeg");
     }
 }
 
 .fifthimage{
+    image-orientation: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%
     margin:auto;
-    content:url("../images/facial.jpeg");
+    content:url("../images/goingtothesun.jpeg");
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .fifthimage{
         margin: auto;
-        content:url("../images/facial.jpeg");
+        content:url("../images/goingtothesun.jpeg");
     }
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
+    .sixthimage{
+        image-orientation: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        height: 100%
+        margin:auto;
+        content:url("../images/bighorns.jpeg");
+    }
 
+    /* For width 600px and larger: */
+    @media only screen and (min-width: 600px) {
+        .sixthimage{
+            margin: auto;
+            content:url("../images/bighorns.jpeg");
+        }
 .contactus{
-    position: center;
+    position: relative;
     width:100%;
-    margin-left: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
 
 }
