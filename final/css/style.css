@@ -48,7 +48,6 @@ p{
     font-family:  Merriweather, sans-serif;
 }
 
-/* Set your header design: */
 header {
     position: fixed;
     top: 0px;
@@ -149,8 +148,8 @@ header {
 }
 .mapimage{
     image-orientation: center;
-    width: 50%;
-    height: 50%;
+    width: 75%;
+    height: 75%;
     content:url("../images/glacier-national-park-map.jpeg")
 }
 @media only screen and (min-width: 600px) {
