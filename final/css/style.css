@@ -108,18 +108,17 @@ header {
     color: black;
     background-color: #583636;
 }
-.button{
-    color: #507DF5;
-    text-align: center;
-    display-orientation: center;
-    margin: 25 px;
-    font-family: Big Caslon;
-    font-size: 60px;
-    font-color: white;
-    margin: 5em;
-    padding: 4em 4em 4em 4em;
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
-
 .mainimage{
     image-orientation: center;
     display: block;
